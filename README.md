@@ -6,6 +6,8 @@ This was a weekend project so don't expect too much out of it.
 
 ## Installation
 
+This script requires that you have ffmpeg installed and available on your path.
+
 You will need to have `grunt-cli` installed globally to install this. Install it with `npm install -g grunt-cli`. Then clone this repository and run `npm install && grunt && npm link`.
 
 
